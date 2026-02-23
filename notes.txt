@@ -1,3 +1,12 @@
 U -> untracked 
 M -> Modified
 A -> Added /Track
+
+#github command that add the project on github (example ,it is different for different repostitories)
+ git remote add origin https://github.com/kumavat123/cohrent_1.git
+ git branch -M main
+ git push -u origin main
+
+# for having the code of another repostitory  on person2 device command are:
+
+git clone https://github.com/kumavat123/cohrent_1.git
